@@ -1,11 +1,27 @@
-/* Name: Your Full Name */
-/* Student Number: Your Registration Number */
+/* Name: JAKIRA JUMA FAHAD */
+/* Student 25/U/BIO/01374/PD */
 
 #include <stdio.h>
 
 int main(void)
 {
-    /* Write your code here */
+   
+int units;
+float cost_per_unit,total_bill;
+
+ /*Get the input from the user*/
+printf("Enter units consumed ");
+scanf("%d", &units);
+
+printf("Enter cost per unit ");
+scanf("%f", &cost_per_unit);
+
+ /*Calculates the total bill*/
+total_bill = (units * cost_per_unit);
+
+  //Display Result
+printf("\nTotal bill: %.2f UGX\n",total_bill);
+
 
     return 0;
 }
