@@ -1,5 +1,5 @@
 /* Name: JAKIRA JUMA FAHAD */
-/* Student 25/U/BIO/01374/PD */
+/* Student Number: 25/U/BIO/01374/PD */
 
 #include <stdio.h>
 
